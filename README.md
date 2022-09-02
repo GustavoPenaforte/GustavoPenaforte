@@ -1,4 +1,4 @@
-### Robotics Manipulators Control
+### Robotics Manipulators Control and Gustavinho
 
 <!--
 **GustavoPenaforte/GustavoPenaforte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
